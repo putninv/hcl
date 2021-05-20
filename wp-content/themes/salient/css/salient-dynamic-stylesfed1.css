@@ -2440,7 +2440,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		  	font-size: 14px!important;
 		  }
 		}#page-header-bg h1, body h1, body .row .col.section-title h1, 
-			.full-width-content .nectar-recent-posts-slider .recent-post-container .inner-wrap h2, body #error-404 h1 {font-family: Archivo Black; text-transform: capitalize; letter-spacing: 0px; font-size:60px; line-height:74px; font-weight:400;  }
+			.full-width-content .nectar-recent-posts-slider .recent-post-container .inner-wrap h2, body #error-404 h1 {font-family: Rubik; text-transform: capitalize; letter-spacing: 0px; font-size:60px; line-height:74px; font-weight:400;  }
 			@media only screen and (max-width: 1300px) and (min-width: 1000px) {
 				body .row .col.section-title h1, body h1, .full-width-content .recent-post-container .inner-wrap h2 {
 					font-size: 45px;
